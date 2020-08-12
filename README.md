@@ -4,7 +4,7 @@
 
 #### Instalação Backend 
 
-#### A aplicação é uma plataforma, onde alunos e professores podem se conectar. Para dar aulas e assistir aulas. Onde o aluno pode pesquisar a matéria, horário e dia, se caso houver algum professor nos quesitos do aluno, irá trazer o professor com o custo da hora/aula, juntamente com o seu WhatsApp e a descrição do professor. Ao clicar no WhatsApp, irá carregar a tela do WhatsApp, já no contato do professor.
+#### A aplicação é uma plataforma, onde alunos e professores podem se conectar. Para dar aulas e assistir aulas. Onde os alunos podem pesquisar a matéria, horário e dia, se caso houver algum professor nos quesitos do aluno, irá trazer o professor com o custo da hora/aula, juntamente com o seu WhatsApp e a descrição do professor. Ao clicar no WhatsApp, irá carregar a tela do WhatsApp, já no contato do professor.
 
 #### Os alunos tem a opção de favoritar os professores. Ao favoritar os professores, o professor será levado para a lista de favoritos do aluno.
 
