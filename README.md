@@ -10,6 +10,12 @@
 
 #### Para ser um "Proffy" o professor precisa se cadastrar na plataforma Web, o cadastro não esta disponível no App.
 
+- #### React Native 
+- #### React 
+- #### TypeScript
+- #### JavaScript
+- #### Sqlite3 com Knex
+- #### NodeJs
 
 ```
 yarn add install
