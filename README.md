@@ -43,9 +43,9 @@ yarn start
 
 ### Demo
 <p align="center">
-  <img alt="Proffy" src=".github/frontendWeb.png" width="100%">
+  <img alt="Proffy" src=".github/frontendWeb.gif" width="100%">
 </p>
 
 <p align="center">
-  <img alt="Proffy" src=".github/frontendMobile.png" width="100%">
+  <img alt="Proffy" src=".github/frontendMobile.gif" width="100%">
 </p>
